@@ -1,6 +1,7 @@
 ```PROSES DEVELOPMENT```
 
 1. Proses saya dalam mengerjakan test ini , saya menggunakan dengan Python Django. Penambahan  feature pada system saya menambahkan:
+ 
   A. Feature Wishlist saya pilih, alasannya
  - Jadikan pembeli seorang pemimpi,
  - Jadikan produk menjadi sebuah pencapaian,
@@ -28,4 +29,4 @@
 ------------------------------------
 1. Saya melakukan semaksimal saya, memposir waktu dan mengerjakan setengah-tengah tapi pasti. Tapi yang terpenting adalaah Prioritas. Prioritas adalah Goal dalam memulai sesuatu bagi saya.
 2. Warna Fuchsia mirip seperti makanan yang enak sejenis cake, atau DOnat. Tapi saya lebih dominan suka melihat wanita memakai baju Warna Fuchsia. :)
-3. Batman. Batman adalah manusia normal tidak memiliki kekuatan super, hanya saja pintar merakit senjata. Deadpool adalah manusia super hasil rekayasa ilmiah. Saya  memilih batman lebih jago. Karena batman masih bisa bertahan walaupun akan kalah dengan Superman. Apa perlu kita menonton "Super Power Beat Down" untuk membuktika ini. :)
+3. Batman. Batman adalah manusia normal tidak memiliki kekuatan super, hanya saja pintar merakit senjata. Deadpool adalah manusia super hasil rekayasa ilmiah. Saya  memilih batman lebih jago. Karena batman masih bisa bertahan walaupun akan kalah dengan Superman. Apa perlu kita menonton "Super Power Beat Down" untuk membuktikan ini. :)
