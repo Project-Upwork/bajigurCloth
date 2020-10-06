@@ -7,7 +7,8 @@ Melakukan Wishlist oleh Member Setelah di return data WishList menjadi task yang
 1. PERLU DI TAMBAHKAN APIs POST api Delegation. 
 2. PERLU FILTER
    
-d
+   ***IF YOU WANT MANY FEATURE, LETS HIRE ME!***
+
 ## RUN AND SETUP
 RUNTIME: Python 3.6.6
 
