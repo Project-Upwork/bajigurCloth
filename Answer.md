@@ -1,13 +1,13 @@
 ```PROSES DEVELOPMENT```
 
 1. Proses saya dalam mengerjakan test ini , saya menggunakan dengan Python Django. Penambahan  feature pada system saya menambahkan:
-  1. Feature Wishlist saya pilih, alasannya
+  A. Feature Wishlist saya pilih, alasannya
  - Jadikan pembeli seorang pemimpi,
  - Jadikan produk menjadi sebuah pencapaian,
  - Pembeli yang senang adalah The Real Of King,
  - Biarkan pembeli berpikir jernih, sehingga setelah membeli merasakan kepuasaan dan tentunya kembali lagi.
   
-   2. Feature CRM , Feature CRM yang simple untuk proses documentasi dan laporan secara realtime, sehingga apa yang sedang di lakukan oleh customer bisa di tracking. Feature ini masih berkaitan dengan feature yang pertama , saya berharap setalah customer melakukan wishlist, tim/admin bisa melakukan tindak lanjut,seperti melakukan email marketing, atau diskon atau apa saja, yang bisa membuat customer melakukan pembelian.
+  B. Feature CRM , Feature CRM yang simple untuk proses documentasi dan laporan secara realtime, sehingga apa yang sedang di lakukan oleh customer bisa di tracking. Feature ini masih berkaitan dengan feature yang pertama , saya berharap setalah customer melakukan wishlist, tim/admin bisa melakukan tindak lanjut,seperti melakukan email marketing, atau diskon atau apa saja, yang bisa membuat customer melakukan pembelian.
 
   Kembali ke proses development. Saya hanya mememulai dengan merangkai models, dan selanjutnya melakukan coding.
 
@@ -20,8 +20,10 @@
 
 3. Saya hanya mengerjakan dan berpikir, melakukan browsing , melakukan proses belajar dengn stackoverflow :) , dan mendengarkan musik.
 4. Saya memulai koding dengan berkonsep. Saya melakukan list terlebih dahulu, entah melalui trello, dll. Mengerjakan sesuatu dengan konseptual itu hal yang sangat krusial bagi saya. 
-   Kelebihan saya, saya orang baik. Murah senyum. Pekerja kuat, dan pekerja sehat. 
-   Kekurangan saya, tidak terlalu senang keramaian. :)
+   
+   `Kelebihan saya, saya orang baik. Murah senyum. Pekerja kuat, dan pekerja sehat.` 
+   
+   `Kekurangan saya, tidak terlalu senang keramaian. Tapi tergantung dengan frekuinsi berbicara, saya lebih suka berdiskusi tentang hal menarik dan menguntungkan. :)`
 
 ------------------------------------
 1. Saya melakukan semaksimal saya, memposir waktu dan mengerjakan setengah-tengah tapi pasti. Tapi yang terpenting adalaah Prioritas. Prioritas adalah Goal dalam memulai sesuatu bagi saya.
