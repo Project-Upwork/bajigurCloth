@@ -4,8 +4,8 @@
 Melakukan Wishlist oleh Member Setelah di return data WishList menjadi task yang di olah di CRM simple dan statusnya menjadi ON PROGRESS, Setelah itu admin melakukan action untuk di delegasikan ke TIM yang bersangkutan. 
 
 **KEKURANGAN**
-1. PERLU DI TAMBAHKAN APIs POST api Delegation. 
-2. PERLU FILTER
+1. PERLU DI TAMBAHKAN APIs POST FILTER Delegation SECARA DETAIL. 
+2. PERLU FILTER APIs STATUS WISHLIST DI CRM
    
    ***IF YOU WANT MANY FEATURE, LETS HIRE ME!***
 
